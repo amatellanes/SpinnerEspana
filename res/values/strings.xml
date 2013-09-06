@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Provincias y Localidades Españolas</string>
+    <string name="action_settings">Settings</string>
+    <string name="provincia">Provincia</string>
+    <string name="localidad">Localidad</string>
+    <string name="provincia_prompt">Elija una provincia</string>
+    <string name="localidad_prompt">Elija una localidad</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="message">Ha seleccionado %1$s (%2$s)</string>
+
+</resources>
