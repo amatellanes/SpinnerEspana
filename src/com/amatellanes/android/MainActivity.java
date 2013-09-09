@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements OnItemSelectedListener {
 
 			// Retrieves an array
 			TypedArray arrayLocalidades = getResources().obtainTypedArray(
-					R.array.array_localidades);
+					R.array.array_provincia_a_localidades);
 			CharSequence[] localidades = arrayLocalidades.getTextArray(pos);
 			arrayLocalidades.recycle();
 

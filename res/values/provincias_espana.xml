@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Each position of id refers to an string array -->
-    <array name="array_localidades">
+    <array name="array_provincia_a_localidades">
         <item>@array/localidades_albacete</item>
         <item>@array/localidades_alava</item>
         <item>@array/localidades_alicante</item>
